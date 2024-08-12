@@ -13,7 +13,7 @@ This repository contains end-to-end tests for the e-commerce site using Cypress.
 
 2.  **Install dependencies**
 
-   npm install
+      npm install
 
 3. **Run Cypress tests**
 

@@ -30,5 +30,6 @@ This repository contains end-to-end tests for the e-commerce site using Cypress.
    Verify item count in the cart.
    
    **Checkout Process:**
+   
    Complete checkout with valid payment details.
    Verify order confirmation.
